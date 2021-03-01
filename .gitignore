@@ -1,0 +1,10 @@
+.idea/
+.git/
+logs/
+.vscode/
+build/
+runtime/
+/cache/
+target/
+go.sum
+test/
